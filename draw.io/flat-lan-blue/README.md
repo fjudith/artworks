@@ -1,8 +1,8 @@
 ﻿# Flat Lan Blue
 
 ## License
-![cc-by-nd-shield](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)
 
+![cc-by-nd-shield](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)
 
 Please note this Template is distributed under a creative commons license, you are permitted to use and share this work providing usage is attributed to Stephen Howe. And that the original file is distributed with this text file.
 
@@ -12,24 +12,27 @@ This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 I
 
 ## Version History
 
-* **v3.0**
-  * Introduction of Services Icons, corrected naming convention now 109 icons.
+- **v3.0**
 
-* **v2.1**
-  * Fixed Firewall icon
+  - Introduction of Services Icons, corrected naming convention now 109 icons.
 
-* **v2.0**
-  * Changed icons (Rebuilt using a completely new template)
-	Added 5 Anchor Points per side
-	Changed the default icon size to a more suitable point for resizing
-	Now over 80 icons including generic and location indicators (Cloud/Office/Home)	
+- **v2.1**
 
-* **v1.0**
-  * Initial Flat LAN release
+  - Fixed Firewall icon
+
+- **v2.0**
+
+  - Changed icons (Rebuilt using a completely new template)
+    Added 5 Anchor Points per side
+    Changed the default icon size to a more suitable point for resizing
+    Now over 80 icons including generic and location indicators (Cloud/Office/Home)
+
+- **v1.0**
+  - Initial Flat LAN release
 
 ## Credit
 
-* **Appliant**: <http://www.appliant.net/flat-lan-visio-stencils/>
+- **Appliant**: <http://www.appliant.net/flat-lan-visio-stencils/>
 
 ## Notes
 
@@ -38,4 +41,3 @@ If you want more items added or any updates please let me know by contacting me 
 Thanks
 
 Stephen
-
