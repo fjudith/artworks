@@ -1,51 +1,181 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(-0.0666667,0,0,13.5,29.1333,-17)">
-        <rect x="2" y="2" width="60" height="4"/>
-    </g>
-    <g transform="matrix(-0.0666667,0,0,13.5,8.13333,-17)">
-        <rect x="2" y="2" width="60" height="4"/>
-    </g>
-    <g transform="matrix(-0.483333,0,0,1,29.9667,8)">
-        <rect x="2" y="2" width="60" height="4"/>
-    </g>
-    <g transform="matrix(-1,0,0,1,91.9935,0)">
-        <g transform="matrix(-0.166667,0,0,4.25,56.3333,18.5)">
-            <path d="M62,2.471C62,2.346 60.736,2.226 58.485,2.138C56.235,2.05 53.183,2 50,2C39.543,2 24.457,2 14,2C10.817,2 7.765,2.05 5.515,2.138C3.264,2.226 2,2.346 2,2.471C2,3.528 2,6 2,6L62,6L62,2.471Z"/>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="0 0 64 64"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg64"
+   sodipodi:docname="access-video.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><style
+   id="style105">
+#group1 { 
+    stroke-width:0px;
+    fill:#000000;
+    stroke:#FFFFFF;
+}
+</style><metadata
+   id="metadata70"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs68" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview66"
+   showgrid="false"
+   inkscape:zoom="13.28125"
+   inkscape:cx="29.967059"
+   inkscape:cy="32"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg64" />
+    
+    
+    
+    
+    
+    
+    
+    
+    <g
+   id="group1"
+   style=""><g
+     transform="matrix(-0.0666667,0,0,13.5,29.1333,-17)"
+     id="g4">
+        <rect
+   x="2"
+   y="2"
+   width="60"
+   height="4"
+   id="rect2" />
+    </g><g
+     transform="matrix(-0.0666667,0,0,13.5,8.13333,-17)"
+     id="g8">
+        <rect
+   x="2"
+   y="2"
+   width="60"
+   height="4"
+   id="rect6" />
+    </g><g
+     transform="matrix(-0.483333,0,0,1,29.9667,8)"
+     id="g12">
+        <rect
+   x="2"
+   y="2"
+   width="60"
+   height="4"
+   id="rect10" />
+    </g><g
+     transform="matrix(-1,0,0,1,91.9935,0)"
+     id="g42">
+        <g
+   transform="matrix(-0.166667,0,0,4.25,56.3333,18.5)"
+   id="g16">
+            <path
+   d="M62,2.471C62,2.346 60.736,2.226 58.485,2.138C56.235,2.05 53.183,2 50,2C39.543,2 24.457,2 14,2C10.817,2 7.765,2.05 5.515,2.138C3.264,2.226 2,2.346 2,2.471C2,3.528 2,6 2,6L62,6L62,2.471Z"
+   id="path14" />
         </g>
-        <g transform="matrix(-0.25,0,0,0.75,59.5,24.5)">
-            <path d="M62,4.309C62,2.984 59.079,1.859 55.144,1.67C46.943,1.275 34.308,0.667 34.308,0.667C34.308,0.667 18.52,1.318 9.017,1.71C5.009,1.876 2,3.011 2,4.357C2,5.225 2,6 2,6L62,6L62,4.309Z"/>
+        <g
+   transform="matrix(-0.25,0,0,0.75,59.5,24.5)"
+   id="g20">
+            <path
+   d="M62,4.309C62,2.984 59.079,1.859 55.144,1.67C46.943,1.275 34.308,0.667 34.308,0.667C34.308,0.667 18.52,1.318 9.017,1.71C5.009,1.876 2,3.011 2,4.357C2,5.225 2,6 2,6L62,6L62,4.309Z"
+   id="path18" />
         </g>
-        <g transform="matrix(0.5,0,0,2.125,44,-63.25)">
-            <path d="M24,50L16,50L16,57.059C16,57.308 16.421,57.548 17.172,57.724C17.922,57.901 18.939,58 20,58C20,58 20,58 20,58C21.061,58 22.078,57.901 22.828,57.724C23.579,57.548 24,57.308 24,57.059C24,54.944 24,50 24,50Z"/>
+        <g
+   transform="matrix(0.5,0,0,2.125,44,-63.25)"
+   id="g24">
+            <path
+   d="M24,50L16,50L16,57.059C16,57.308 16.421,57.548 17.172,57.724C17.922,57.901 18.939,58 20,58C20,58 20,58 20,58C21.061,58 22.078,57.901 22.828,57.724C23.579,57.548 24,57.308 24,57.059C24,54.944 24,50 24,50Z"
+   id="path22" />
         </g>
-        <g transform="matrix(0.5,0,0,2.125,38,-63.25)">
-            <path d="M24,50L16,50L16,57.059C16,57.308 16.421,57.548 17.172,57.724C17.922,57.901 18.939,58 20,58C20,58 20,58 20,58C21.061,58 22.078,57.901 22.828,57.724C23.579,57.548 24,57.308 24,57.059C24,54.944 24,50 24,50Z"/>
+        <g
+   transform="matrix(0.5,0,0,2.125,38,-63.25)"
+   id="g28">
+            <path
+   d="M24,50L16,50L16,57.059C16,57.308 16.421,57.548 17.172,57.724C17.922,57.901 18.939,58 20,58C20,58 20,58 20,58C21.061,58 22.078,57.901 22.828,57.724C23.579,57.548 24,57.308 24,57.059C24,54.944 24,50 24,50Z"
+   id="path26" />
         </g>
-        <g transform="matrix(0.433013,-0.25,1.1105,1.92344,-7.45956,-63.5686)">
-            <path d="M24,50L16,50L16,57.1C16,57.597 17.791,58 20,58C20,58 20,58 20,58C22.209,58 24,57.597 24,57.1C24,55.008 24,50 24,50Z"/>
+        <g
+   transform="matrix(0.433013,-0.25,1.1105,1.92344,-7.45956,-63.5686)"
+   id="g32">
+            <path
+   d="M24,50L16,50L16,57.1C16,57.597 17.791,58 20,58C20,58 20,58 20,58C22.209,58 24,57.597 24,57.1C24,55.008 24,50 24,50Z"
+   id="path30" />
         </g>
-        <g transform="matrix(-0.25,0.433013,-1.8403,-1.0625,144.015,73.9809)">
-            <path d="M24,50L16,50L16,57.059C16,57.308 16.421,57.548 17.172,57.724C17.922,57.901 18.939,58 20,58C20,58 20,58 20,58C21.061,58 22.078,57.901 22.828,57.724C23.579,57.548 24,57.308 24,57.059C24,54.944 24,50 24,50Z"/>
+        <g
+   transform="matrix(-0.25,0.433013,-1.8403,-1.0625,144.015,73.9809)"
+   id="g36">
+            <path
+   d="M24,50L16,50L16,57.059C16,57.308 16.421,57.548 17.172,57.724C17.922,57.901 18.939,58 20,58C20,58 20,58 20,58C21.061,58 22.078,57.901 22.828,57.724C23.579,57.548 24,57.308 24,57.059C24,54.944 24,50 24,50Z"
+   id="path34" />
         </g>
-        <g transform="matrix(1.66667,0,0,1.66667,24.6601,-49.3333)">
-            <circle cx="17" cy="41" r="3"/>
+        <g
+   transform="matrix(1.66667,0,0,1.66667,24.6601,-49.3333)"
+   id="g40">
+            <circle
+   cx="17"
+   cy="41"
+   r="3"
+   id="circle38" />
         </g>
-    </g>
-    <g transform="matrix(1.06667,0,0,1,-2.13333,58)">
-        <rect x="2" y="2" width="60" height="4"/>
-    </g>
-    <g transform="matrix(0.666667,0,0,0.666667,0.666667,10.6667)">
-        <circle cx="17" cy="41" r="3"/>
-    </g>
-    <g transform="matrix(0.666667,0,0,0.666667,-11.3333,10.6667)">
-        <circle cx="17" cy="41" r="3"/>
-    </g>
-    <g transform="matrix(0.707107,-0.707107,0.707107,0.707107,11.6741,36.7696)">
-        <path d="M43,9.073L43,5L57,5L57,17L43,17L43,12.927L38.855,15L38.855,7L43,9.073ZM47,9L47,13L53,13L53,9L47,9Z"/>
-    </g>
-    <g transform="matrix(0.858829,0,0,1,8.75258,0)">
-        <rect x="57.342" y="-0.486" width="4.658" height="8.486"/>
-    </g>
+    </g><g
+     transform="matrix(1.06667,0,0,1,-2.13333,58)"
+     id="g46">
+        <rect
+   x="2"
+   y="2"
+   width="60"
+   height="4"
+   id="rect44" />
+    </g><g
+     transform="matrix(0.666667,0,0,0.666667,0.666667,10.6667)"
+     id="g50">
+        <circle
+   cx="17"
+   cy="41"
+   r="3"
+   id="circle48" />
+    </g><g
+     transform="matrix(0.666667,0,0,0.666667,-11.3333,10.6667)"
+     id="g54">
+        <circle
+   cx="17"
+   cy="41"
+   r="3"
+   id="circle52" />
+    </g><g
+     transform="matrix(0.707107,-0.707107,0.707107,0.707107,11.6741,36.7696)"
+     id="g58">
+        <path
+   d="M43,9.073L43,5L57,5L57,17L43,17L43,12.927L38.855,15L38.855,7L43,9.073ZM47,9L47,13L53,13L53,9L47,9Z"
+   id="path56" />
+    </g><g
+     transform="matrix(0.858829,0,0,1,8.75258,0)"
+     id="g62">
+        <rect
+   x="57.342"
+   y="-0.486"
+   width="4.658"
+   height="8.486"
+   id="rect60" />
+    </g></g>
 </svg>

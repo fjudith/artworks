@@ -1,4 +1,4 @@
-﻿# Building | Parking
+﻿# Building | Lift
 
 ## License
 
@@ -13,11 +13,11 @@ This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 I
 ## Version History
 
 - **v1.0**
-  - Initial `Bulding | Parking` release
+  - Initial `Bulding | Lift` release
 
 ## Notes
 
-If you want more items added or any updates please let me know by opening a issue in this repo starting the subject with `Building | Parking:`.
+If you want more items added or any updates please let me know by opening a issue in this repo starting the subject with `Building | Lift:`.
 
 Thanks
 

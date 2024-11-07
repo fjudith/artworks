@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <path d="M26,29.711L26,8.147C26,4.284 28.689,1.147 32,1.147C35.299,1.147 37.979,4.26 38,8.102L38,8.147L38,29.711C39.173,31.04 39.912,32.763 39.993,34.655L57.577,52.239C60.309,54.971 60.626,59.09 58.284,61.432C55.952,63.764 51.856,63.459 49.124,60.756L49.092,60.725L31.926,43.559L14.908,60.577L14.876,60.609C12.144,63.311 8.048,63.617 5.716,61.284C3.374,58.943 3.691,54.824 6.423,52.092L24.015,34.499C24.129,32.669 24.859,31.004 26,29.711ZM38.836,39.155C38.132,40.31 37.144,41.272 35.97,41.946L51.92,57.896C52.847,58.823 54.234,58.942 55.014,58.162C55.795,57.381 55.676,55.995 54.749,55.068L38.836,39.155ZM25.109,39.063L9.251,54.92C8.324,55.847 8.205,57.234 8.986,58.014C9.766,58.795 11.153,58.676 12.08,57.749L27.937,41.891C26.772,41.203 25.797,40.228 25.109,39.063ZM32,31C34.208,31 36,32.792 36,35C36,37.208 34.208,39 32,39C29.792,39 28,37.208 28,35C28,32.792 29.792,31 32,31ZM34,27.252L34,8.147C34,6.836 33.104,5.772 32,5.772C30.896,5.772 30,6.836 30,8.147L30,27.252C30.639,27.088 31.309,27 32,27C32.691,27 33.361,27.088 34,27.252Z"/>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="100%" height="100%" viewBox="0 0 64 64"
+   version="1.1" xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" id="svg4"
+   sodipodi:docname="fire-cooling.svg" inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   <style>
+      #path2 {
+         fill: #000000;
+         stroke: #FFFFFF;
+         stroke-width: 0px;
+      }
+   </style>
+   <metadata id="metadata10">
+      <rdf:RDF>
+         <cc:Work rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <defs id="defs8" />
+   <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10"
+      gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2"
+      inkscape:window-width="1920" inkscape:window-height="1017" id="namedview6" showgrid="false"
+      inkscape:zoom="13.28125" inkscape:cx="32" inkscape:cy="32" inkscape:window-x="-8" inkscape:window-y="-8"
+      inkscape:window-maximized="1" inkscape:current-layer="svg4" />
+   <path
+      d="M26,29.711L26,8.147C26,4.284 28.689,1.147 32,1.147C35.299,1.147 37.979,4.26 38,8.102L38,8.147L38,29.711C39.173,31.04 39.912,32.763 39.993,34.655L57.577,52.239C60.309,54.971 60.626,59.09 58.284,61.432C55.952,63.764 51.856,63.459 49.124,60.756L49.092,60.725L31.926,43.559L14.908,60.577L14.876,60.609C12.144,63.311 8.048,63.617 5.716,61.284C3.374,58.943 3.691,54.824 6.423,52.092L24.015,34.499C24.129,32.669 24.859,31.004 26,29.711ZM38.836,39.155C38.132,40.31 37.144,41.272 35.97,41.946L51.92,57.896C52.847,58.823 54.234,58.942 55.014,58.162C55.795,57.381 55.676,55.995 54.749,55.068L38.836,39.155ZM25.109,39.063L9.251,54.92C8.324,55.847 8.205,57.234 8.986,58.014C9.766,58.795 11.153,58.676 12.08,57.749L27.937,41.891C26.772,41.203 25.797,40.228 25.109,39.063ZM32,31C34.208,31 36,32.792 36,35C36,37.208 34.208,39 32,39C29.792,39 28,37.208 28,35C28,32.792 29.792,31 32,31ZM34,27.252L34,8.147C34,6.836 33.104,5.772 32,5.772C30.896,5.772 30,6.836 30,8.147L30,27.252C30.639,27.088 31.309,27 32,27C32.691,27 33.361,27.088 34,27.252Z"
+      id="path2" style="" />
 </svg>

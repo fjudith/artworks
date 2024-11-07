@@ -1,37 +1,147 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1.06667,0,0,1,-2.13333,-2)">
-        <rect x="2" y="2" width="60" height="4"/>
-    </g>
-    <g transform="matrix(1.06667,0,0,1,-2.13333,58)">
-        <rect x="2" y="2" width="60" height="4"/>
-    </g>
-    <g transform="matrix(1,0,0,1,-2.4869e-14,38)">
-        <path d="M62,2L4,2C2.895,2 2,2.895 2,4C2,5.105 2.895,6 4,6C14.418,6 62,6 62,6L62,2Z"/>
-    </g>
-    <g transform="matrix(0.1,0,0,8.5,57.8,10)">
-        <rect x="2" y="2" width="60" height="4"/>
-    </g>
-    <g transform="matrix(1,0,0,1,28,1)">
-        <circle cx="17" cy="41" r="3"/>
-    </g>
-    <g transform="matrix(0.333333,0,0,0.333333,54.3333,28.3333)">
-        <circle cx="17" cy="41" r="3" style="fill:white;"/>
-    </g>
-    <path d="M8,54L6,54L6,34L16,18L44,18L54,34L54,54L52,54L52,58C52,59.105 51.105,60 50,60L46,60C44.895,60 44,59.105 44,58L44,54L16,54L16,58C16,59.105 15.105,60 14,60L10,60C8.895,60 8,59.105 8,58L8,54ZM50,48L10,48L10,50L50,50L50,48ZM50,46L50,38L30,36L10,38L10,46L50,46ZM50,34L42,22L18,22L10,34L30,32L50,34Z"/>
-    <g transform="matrix(-1,0,0,1,32,1)">
-        <circle cx="17" cy="41" r="3"/>
-    </g>
-    <g transform="matrix(-1.5,0,0,1.5,63,-34)">
-        <circle cx="17" cy="41" r="3"/>
-    </g>
-    <g>
-        <g transform="matrix(1,0,0,1,11.0104,-26.0208)">
-            <path d="M44,30C44,33.311 41.311,36 38,36C34.689,36 32,33.311 32,30L36,30C36,31.104 36.896,32 38,32C39.104,32 40,31.104 40,30L44,30Z"/>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="0 0 64 64"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg48"
+   sodipodi:docname="parking-security.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><style
+   id="style56">
+#group1 { 
+    stroke-width:0px;
+    fill:#000000;
+    stroke:#FFFFFF;
+}
+</style><metadata
+   id="metadata54"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs52" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview50"
+   showgrid="false"
+   inkscape:zoom="9.3912619"
+   inkscape:cx="31.863955"
+   inkscape:cy="44.919976"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg48" />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <g
+   id="group1"
+   style=""><g
+     transform="matrix(1.06667,0,0,1,-2.13333,-2)"
+     id="g4">
+        <rect
+   x="2"
+   y="2"
+   width="60"
+   height="4"
+   id="rect2" />
+    </g><g
+     transform="matrix(1.06667,0,0,1,-2.13333,58)"
+     id="g8">
+        <rect
+   x="2"
+   y="2"
+   width="60"
+   height="4"
+   id="rect6" />
+    </g><g
+     transform="matrix(1,0,0,1,-2.4869e-14,38)"
+     id="g12">
+        <path
+   d="M62,2L4,2C2.895,2 2,2.895 2,4C2,5.105 2.895,6 4,6C14.418,6 62,6 62,6L62,2Z"
+   id="path10" />
+    </g><g
+     transform="matrix(0.1,0,0,8.5,57.8,10)"
+     id="g16">
+        <rect
+   x="2"
+   y="2"
+   width="60"
+   height="4"
+   id="rect14" />
+    </g><g
+     transform="matrix(1,0,0,1,28,1)"
+     id="g20">
+        <circle
+   cx="17"
+   cy="41"
+   r="3"
+   id="circle18" />
+    </g><g
+     transform="matrix(0.333333,0,0,0.333333,54.3333,28.3333)"
+     id="g24">
+        <circle
+   cx="17"
+   cy="41"
+   r="3"
+   style="fill:white;"
+   id="circle22" />
+    </g><path
+     d="M8,54L6,54L6,34L16,18L44,18L54,34L54,54L52,54L52,58C52,59.105 51.105,60 50,60L46,60C44.895,60 44,59.105 44,58L44,54L16,54L16,58C16,59.105 15.105,60 14,60L10,60C8.895,60 8,59.105 8,58L8,54ZM50,48L10,48L10,50L50,50L50,48ZM50,46L50,38L30,36L10,38L10,46L50,46ZM50,34L42,22L18,22L10,34L30,32L50,34Z"
+     id="path26" /><g
+     transform="matrix(-1,0,0,1,32,1)"
+     id="g30">
+        <circle
+   cx="17"
+   cy="41"
+   r="3"
+   id="circle28" />
+    </g><g
+     transform="matrix(-1.5,0,0,1.5,63,-34)"
+     id="g34">
+        <circle
+   cx="17"
+   cy="41"
+   r="3"
+   id="circle32" />
+    </g><g
+     id="g46">
+        <g
+   transform="matrix(1,0,0,1,11.0104,-26.0208)"
+   id="g38">
+            <path
+   d="M44,30C44,33.311 41.311,36 38,36C34.689,36 32,33.311 32,30L36,30C36,31.104 36.896,32 38,32C39.104,32 40,31.104 40,30L44,30Z"
+   id="path36" />
         </g>
-        <path d="M55.876,8.069L60.405,12.616L57.576,15.444L53.036,10.886C54.204,10.202 55.183,9.231 55.876,8.069Z"/>
-        <path d="M42.124,8.069C42.817,9.23 43.796,10.202 44.964,10.886L40.425,15.425L37.596,12.596L42.124,8.069Z"/>
-        <path d="M47,11.727C47.639,11.892 48.309,11.979 49,11.979C49.691,11.979 50.361,11.892 51,11.727L51,18L47,18L47,11.727Z"/>
-    </g>
+        <path
+   d="M55.876,8.069L60.405,12.616L57.576,15.444L53.036,10.886C54.204,10.202 55.183,9.231 55.876,8.069Z"
+   id="path40" />
+        <path
+   d="M42.124,8.069C42.817,9.23 43.796,10.202 44.964,10.886L40.425,15.425L37.596,12.596L42.124,8.069Z"
+   id="path42" />
+        <path
+   d="M47,11.727C47.639,11.892 48.309,11.979 49,11.979C49.691,11.979 50.361,11.892 51,11.727L51,18L47,18L47,11.727Z"
+   id="path44" />
+    </g></g>
 </svg>

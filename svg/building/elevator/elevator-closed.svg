@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="0 0 64 64"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg12"
+   sodipodi:docname="lift-closed.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><style
+   id="style20">
+#group1 { 
+    stroke-width:0px;
+    fill:#000000;
+    stroke:#FFFFFF;
+}
+</style><metadata
+   id="metadata18"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs16" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview14"
+   showgrid="false"
+   inkscape:zoom="13.28125"
+   inkscape:cx="32"
+   inkscape:cy="32"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg12" />
+    
+    
+    <g
+   id="group1"
+   style=""><path
+     d="M64,0L64,64L-0,64L-0,0L64,0ZM4,10L4,60L8,60L8,10L4,10ZM52,10L12,10L12,60L52,60L52,10ZM56,10L56,60L60,60L60,10L56,10ZM24.952,8.362L24.954,8.364L29.904,3.414L28.49,2L24.952,5.538L21.414,2L20,3.414L24.95,8.364L24.952,8.362ZM39.048,1.82L39.05,1.818L44,6.768L42.586,8.182L39.048,4.644L35.51,8.182L34.096,6.768L39.046,1.818L39.048,1.82Z"
+     id="path2" /><g
+     transform="matrix(4.25,0,0,1,-109.25,-2)"
+     id="g6">
+        <rect
+   x="29"
+   y="14"
+   width="4"
+   height="46"
+   id="rect4" />
+    </g><g
+     transform="matrix(4.25,0,0,1,-90.25,-2)"
+     id="g10">
+        <rect
+   x="29"
+   y="14"
+   width="4"
+   height="46"
+   id="rect8" />
+    </g></g>
+</svg>

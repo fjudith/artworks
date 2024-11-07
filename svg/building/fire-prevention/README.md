@@ -1,8 +1,8 @@
 ﻿# Building | Fire prevention
 
 ## License
-![cc-by-nd-shield](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)
 
+![cc-by-nd-shield](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)
 
 Please note this Template is distributed under a creative commons license, you are permitted to use and share this work providing usage is attributed to Stephen Howe. And that the original file is distributed with this text file.
 
@@ -12,8 +12,8 @@ This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 I
 
 ## Version History
 
-* **v1.0**
-  * Initial `Bulding | Fire prevention` release
+- **v1.0**
+  - Initial `Bulding | Fire prevention` release
 
 ## Notes
 

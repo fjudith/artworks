@@ -1,61 +1,113 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1.06667,0,0,1,-2.13333,58)">
-        <rect x="2" y="2" width="60" height="4"/>
-    </g>
-    <path d="M23,50L-0,50L-0,46L27,46L27,58L-0,58L-0,54L23,54L23,50Z"/>
-    <g transform="matrix(1,0,0,1,0,-14)">
-        <path d="M23,50L-0,50L-0,46L27,46L27,58L-0,58L-0,54L23,54L23,50Z"/>
-    </g>
-    <g transform="matrix(1,0,0,1,0,-28)">
-        <path d="M23,50L-0,50L-0,46L27,46L27,58L-0,58L-0,54L23,54L23,50Z"/>
-    </g>
-    <g transform="matrix(1,0,0,1,0,-42)">
-        <path d="M23,50L-0,50L-0,46L27,46L27,58L-0,58L-0,54L23,54L23,50Z"/>
-    </g>
-    <g transform="matrix(0.05,0,0,15.5,28.9,-31)">
-        <rect x="2" y="2" width="60" height="4"/>
-    </g>
-    <g transform="matrix(0.504104,0,0,0.75,-1.25445,-1.5)">
-        <rect x="2" y="2" width="60" height="4"/>
-    </g>
-    <circle cx="21" cy="10" r="1"/>
-    <g transform="matrix(1,0,0,1,0,14)">
-        <circle cx="21" cy="10" r="1"/>
-    </g>
-    <g transform="matrix(1,0,0,1,0,28)">
-        <circle cx="21" cy="10" r="1"/>
-    </g>
-    <g transform="matrix(1,0,0,1,0,42)">
-        <circle cx="21" cy="10" r="1"/>
-    </g>
-    <g transform="matrix(1,0,0,1,-3,0)">
-        <circle cx="21" cy="10" r="1"/>
-    </g>
-    <g transform="matrix(1,0,0,1,-3,14)">
-        <circle cx="21" cy="10" r="1"/>
-    </g>
-    <g transform="matrix(1,0,0,1,-3,28)">
-        <circle cx="21" cy="10" r="1"/>
-    </g>
-    <g transform="matrix(1,0,0,1,-3,42)">
-        <circle cx="21" cy="10" r="1"/>
-    </g>
-    <g transform="matrix(1,0,0,1,-6,0)">
-        <circle cx="21" cy="10" r="1"/>
-    </g>
-    <g transform="matrix(1,0,0,1,-6,14)">
-        <circle cx="21" cy="10" r="1"/>
-    </g>
-    <g transform="matrix(1,0,0,1,-6,28)">
-        <circle cx="21" cy="10" r="1"/>
-    </g>
-    <g transform="matrix(1,0,0,1,-6,42)">
-        <circle cx="21" cy="10" r="1"/>
-    </g>
-    <path d="M39,18.938L39,17L41,17L41,15L39,15L39,13L45,13L45,15L43,15L43,17L45,17L45,18.938C46.793,20.149 48,22.411 48,25L48,57C48,58.657 46.657,60 45,60C43.168,60 40.832,60 39,60C37.343,60 36,58.657 36,57C36,48.866 36,25 36,25L36,24.955C36.014,22.385 37.218,20.142 39,18.938ZM40,25C40,23.689 40.896,22.624 42,22.624C43.104,22.624 44,23.689 44,25C44,25 44,56 44,56L40,56L40,25Z"/>
-    <g transform="matrix(1,0,0,1,16,0)">
-        <path d="M39,18.938L39,17L41,17L41,15L39,15L39,13L45,13L45,15L43,15L43,17L45,17L45,18.938C46.793,20.149 48,22.411 48,25L48,57C48,58.657 46.657,60 45,60C43.168,60 40.832,60 39,60C37.343,60 36,58.657 36,57C36,48.866 36,25 36,25L36,24.955C36.014,22.385 37.218,20.142 39,18.938ZM40,25C40,23.689 40.896,22.624 42,22.624C43.104,22.624 44,23.689 44,25C44,25 44,56 44,56L40,56L40,25Z"/>
-    </g>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="100%" height="100%" viewBox="0 0 64 64"
+   version="1.1" xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" id="svg80"
+   sodipodi:docname="fire-it.svg" inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   <style id="style88">
+      #group1 {
+         stroke-width: 0px;
+         fill: #000000;
+         stroke: #FFFFFF;
+      }
+   </style>
+   <metadata id="metadata86">
+      <rdf:RDF>
+         <cc:Work rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <defs id="defs84" />
+   <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10"
+      gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2"
+      inkscape:window-width="1920" inkscape:window-height="1017" id="namedview82" showgrid="false"
+      inkscape:zoom="13.28125" inkscape:cx="32" inkscape:cy="32" inkscape:window-x="-8" inkscape:window-y="-8"
+      inkscape:window-maximized="1" inkscape:current-layer="svg80" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <g id="group1" style="">
+      <g transform="matrix(1.06667,0,0,1,-2.13333,58)" id="g4">
+         <rect x="2" y="2" width="60" height="4" id="rect2" />
+      </g>
+      <path d="M23,50L-0,50L-0,46L27,46L27,58L-0,58L-0,54L23,54L23,50Z" id="path6" />
+      <g transform="matrix(1,0,0,1,0,-14)" id="g10">
+         <path d="M23,50L-0,50L-0,46L27,46L27,58L-0,58L-0,54L23,54L23,50Z" id="path8" />
+      </g>
+      <g transform="matrix(1,0,0,1,0,-28)" id="g14">
+         <path d="M23,50L-0,50L-0,46L27,46L27,58L-0,58L-0,54L23,54L23,50Z" id="path12" />
+      </g>
+      <g transform="matrix(1,0,0,1,0,-42)" id="g18">
+         <path d="M23,50L-0,50L-0,46L27,46L27,58L-0,58L-0,54L23,54L23,50Z" id="path16" />
+      </g>
+      <g transform="matrix(0.05,0,0,15.5,28.9,-31)" id="g22">
+         <rect x="2" y="2" width="60" height="4" id="rect20" />
+      </g>
+      <g transform="matrix(0.504104,0,0,0.75,-1.25445,-1.5)" id="g26">
+         <rect x="2" y="2" width="60" height="4" id="rect24" />
+      </g>
+      <circle cx="21" cy="10" r="1" id="circle28" />
+      <g transform="matrix(1,0,0,1,0,14)" id="g32">
+         <circle cx="21" cy="10" r="1" id="circle30" />
+      </g>
+      <g transform="matrix(1,0,0,1,0,28)" id="g36">
+         <circle cx="21" cy="10" r="1" id="circle34" />
+      </g>
+      <g transform="matrix(1,0,0,1,0,42)" id="g40">
+         <circle cx="21" cy="10" r="1" id="circle38" />
+      </g>
+      <g transform="matrix(1,0,0,1,-3,0)" id="g44">
+         <circle cx="21" cy="10" r="1" id="circle42" />
+      </g>
+      <g transform="matrix(1,0,0,1,-3,14)" id="g48">
+         <circle cx="21" cy="10" r="1" id="circle46" />
+      </g>
+      <g transform="matrix(1,0,0,1,-3,28)" id="g52">
+         <circle cx="21" cy="10" r="1" id="circle50" />
+      </g>
+      <g transform="matrix(1,0,0,1,-3,42)" id="g56">
+         <circle cx="21" cy="10" r="1" id="circle54" />
+      </g>
+      <g transform="matrix(1,0,0,1,-6,0)" id="g60">
+         <circle cx="21" cy="10" r="1" id="circle58" />
+      </g>
+      <g transform="matrix(1,0,0,1,-6,14)" id="g64">
+         <circle cx="21" cy="10" r="1" id="circle62" />
+      </g>
+      <g transform="matrix(1,0,0,1,-6,28)" id="g68">
+         <circle cx="21" cy="10" r="1" id="circle66" />
+      </g>
+      <g transform="matrix(1,0,0,1,-6,42)" id="g72">
+         <circle cx="21" cy="10" r="1" id="circle70" />
+      </g>
+      <path
+         d="M39,18.938L39,17L41,17L41,15L39,15L39,13L45,13L45,15L43,15L43,17L45,17L45,18.938C46.793,20.149 48,22.411 48,25L48,57C48,58.657 46.657,60 45,60C43.168,60 40.832,60 39,60C37.343,60 36,58.657 36,57C36,48.866 36,25 36,25L36,24.955C36.014,22.385 37.218,20.142 39,18.938ZM40,25C40,23.689 40.896,22.624 42,22.624C43.104,22.624 44,23.689 44,25C44,25 44,56 44,56L40,56L40,25Z"
+         id="path74" />
+      <g transform="matrix(1,0,0,1,16,0)" id="g78">
+         <path
+            d="M39,18.938L39,17L41,17L41,15L39,15L39,13L45,13L45,15L43,15L43,17L45,17L45,18.938C46.793,20.149 48,22.411 48,25L48,57C48,58.657 46.657,60 45,60C43.168,60 40.832,60 39,60C37.343,60 36,58.657 36,57C36,48.866 36,25 36,25L36,24.955C36.014,22.385 37.218,20.142 39,18.938ZM40,25C40,23.689 40.896,22.624 42,22.624C43.104,22.624 44,23.689 44,25C44,25 44,56 44,56L40,56L40,25Z"
+            id="path76" />
+      </g>
+   </g>
 </svg>

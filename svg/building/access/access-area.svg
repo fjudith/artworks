@@ -1,51 +1,90 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(-0.0666667,0,0,13.5,29.1333,-17)">
-        <rect x="2" y="2" width="60" height="4"/>
-    </g>
-    <g transform="matrix(-0.0666667,0,0,13.5,8.13333,-17)">
-        <rect x="2" y="2" width="60" height="4"/>
-    </g>
-    <g transform="matrix(-0.483333,0,0,1,29.9667,8)">
-        <rect x="2" y="2" width="60" height="4"/>
-    </g>
-    <g transform="matrix(-1,0,0,1,64.272,4)">
-        <path d="M36,24L36,40L21,40L21,24L36,24ZM24,27L24,37L33,37L33,27L24,27Z"/>
-    </g>
-    <g>
-        <g transform="matrix(-0.166667,0,0,4.25,56.3333,18.5)">
-            <path d="M62,2.471C62,2.346 60.736,2.226 58.485,2.138C56.235,2.05 53.183,2 50,2C39.543,2 24.457,2 14,2C10.817,2 7.765,2.05 5.515,2.138C3.264,2.226 2,2.346 2,2.471C2,3.528 2,6 2,6L62,6L62,2.471Z"/>
-        </g>
-        <g transform="matrix(-0.25,0,0,0.75,59.5,24.5)">
-            <path d="M62,4.309C62,2.984 59.079,1.859 55.144,1.67C46.943,1.275 34.308,0.667 34.308,0.667C34.308,0.667 18.52,1.318 9.017,1.71C5.009,1.876 2,3.011 2,4.357C2,5.225 2,6 2,6L62,6L62,4.309Z"/>
-        </g>
-        <g transform="matrix(0.5,0,0,2.125,44,-63.25)">
-            <path d="M24,50L16,50L16,57.059C16,57.308 16.421,57.548 17.172,57.724C17.922,57.901 18.939,58 20,58C20,58 20,58 20,58C21.061,58 22.078,57.901 22.828,57.724C23.579,57.548 24,57.308 24,57.059C24,54.944 24,50 24,50Z"/>
-        </g>
-        <g transform="matrix(0.5,0,0,2.125,38,-63.25)">
-            <path d="M24,50L16,50L16,57.059C16,57.308 16.421,57.548 17.172,57.724C17.922,57.901 18.939,58 20,58C20,58 20,58 20,58C21.061,58 22.078,57.901 22.828,57.724C23.579,57.548 24,57.308 24,57.059C24,54.944 24,50 24,50Z"/>
-        </g>
-        <g transform="matrix(0.5,0,0,2.125,47,-78.25)">
-            <path d="M24,50L16,50L16,57.059C16,57.308 16.421,57.548 17.172,57.724C17.922,57.901 18.939,58 20,58C20,58 20,58 20,58C21.061,58 22.078,57.901 22.828,57.724C23.579,57.548 24,57.308 24,57.059C24,54.944 24,50 24,50Z"/>
-        </g>
-        <g transform="matrix(-1,0,0,1,62,0)">
-            <rect x="15" y="28" width="3" height="7"/>
-        </g>
-        <g transform="matrix(0.12941,0.482963,-2.05259,0.54999,151.524,-4.41912)">
-            <path d="M24,50L16,50L16,57.059C16,57.308 16.421,57.548 17.172,57.724C17.922,57.901 18.939,58 20,58C20,58 20,58 20,58C21.061,58 22.078,57.901 22.828,57.724C23.579,57.548 24,57.308 24,57.059C24,54.944 24,50 24,50Z"/>
-        </g>
-        <g transform="matrix(1.66667,0,0,1.66667,20.6667,-49.3333)">
-            <circle cx="17" cy="41" r="3"/>
-        </g>
-    </g>
-    <g transform="matrix(1.06667,0,0,1,-2.13333,58)">
-        <rect x="2" y="2" width="60" height="4"/>
-    </g>
-    <g transform="matrix(0.666667,0,0,0.666667,0.666667,10.6667)">
-        <circle cx="17" cy="41" r="3"/>
-    </g>
-    <g transform="matrix(0.666667,0,0,0.666667,-11.3333,10.6667)">
-        <circle cx="17" cy="41" r="3"/>
-    </g>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="100%" height="100%" viewBox="0 0 64 64"
+     version="1.1" xml:space="preserve"
+     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" id="svg64"
+     sodipodi:docname="access-area.svg" inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+     <style id="style72">
+          #g154 {
+               stroke-width: 0px;
+               fill: #000000;
+               stroke: #FFFFFF;
+          }
+     </style>
+     <metadata id="metadata70">
+          <rdf:RDF>
+               <cc:Work rdf:about="">
+                    <dc:format>image/svg+xml</dc:format>
+                    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                    <dc:title></dc:title>
+               </cc:Work>
+          </rdf:RDF>
+     </metadata>
+     <defs id="defs68">
+
+     </defs>
+     <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10"
+          gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2"
+          inkscape:window-width="1920" inkscape:window-height="1017" id="namedview66" showgrid="false"
+          inkscape:zoom="13.28125" inkscape:cx="30.117647" inkscape:cy="38.023529" inkscape:window-x="-8"
+          inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg64" />
+     <g transform="matrix(-0.0666667,0,0,13.5,29.1333,-17)" id="g4">
+
+     </g>
+     <g transform="matrix(-0.0666667,0,0,13.5,8.13333,-17)" id="g8">
+
+     </g>
+     <g transform="matrix(-0.483333,0,0,1,29.9667,8)" id="g12">
+
+     </g>
+     <g transform="matrix(-1,0,0,1,64.272,4)" id="g16">
+
+     </g>
+     <g id="g50">
+          <g transform="matrix(-0.166667,0,0,4.25,56.3333,18.5)" id="g20">
+
+          </g>
+          <g transform="matrix(-0.25,0,0,0.75,59.5,24.5)" id="g24">
+
+          </g>
+          <g transform="matrix(0.5,0,0,2.125,44,-63.25)" id="g28">
+
+          </g>
+          <g transform="matrix(0.5,0,0,2.125,38,-63.25)" id="g32">
+
+          </g>
+          <g transform="matrix(0.5,0,0,2.125,47,-78.25)" id="g36">
+
+          </g>
+          <g transform="matrix(-1,0,0,1,62,0)" id="g40">
+
+          </g>
+          <g transform="matrix(0.12941,0.482963,-2.05259,0.54999,151.524,-4.41912)" id="g44">
+
+          </g>
+          <g transform="matrix(1.66667,0,0,1.66667,20.6667,-49.3333)" id="g48">
+
+          </g>
+     </g>
+     <g transform="matrix(1.06667,0,0,1,-2.13333,58)" id="g54">
+
+     </g>
+     <g transform="matrix(0.666667,0,0,0.666667,0.666667,10.6667)" id="g58">
+
+     </g>
+     <g id="g154" style="">
+          <path id="rect2" style=""
+               d="M 0 10 L 0 14 L 4 14 L 4 60 L 0 60 L 0 64 L 4 64 L 8 64 L 25 64 L 29 64 L 64 64 L 64 60 L 29 60 L 29 14 L 29 10 L 25 10 L 8 10 L 4 10 L 0 10 z M 8 14 L 25 14 L 25 60 L 8 60 L 8 14 z " />
+          <path d="m 28.271998,28 v 16 h 15 V 28 Z m 12,3 v 10 h -9 V 31 Z" id="path14" style="" />
+          <path id="path18" style=""
+               d="M 50.923828 25 C 50.923828 25 47.765094 25.455703 45.714844 25.751953 C 44.731094 25.893703 44 26.738672 44 27.732422 L 44 29 L 44 32.673828 L 36.476562 34.689453 C 35.965468 34.826401 35.525788 35.161591 35.261719 35.621094 C 34.995468 36.080665 34.925196 36.626248 35.0625 37.138672 C 35.199804 37.651096 35.533775 38.088642 35.994141 38.353516 C 36.452584 38.619423 37.000624 38.691636 37.511719 38.554688 L 46 36.279297 L 46 43 L 46 44 L 46 58 C 46 58.529125 46.210438 59.040062 46.585938 59.414062 C 46.960938 59.790188 47.4695 60 48 60 C 48.5305 60 49.039062 59.790188 49.414062 59.414062 C 49.789563 59.040062 50 58.529125 50 58 L 50 44 L 52 44 L 52 58 C 52 58.529125 52.210438 59.040062 52.585938 59.414062 C 52.960938 59.790188 53.4695 60 54 60 C 54.5305 60 55.039062 59.790188 55.414062 59.414062 C 55.789563 59.040062 56 58.529125 56 58 L 56 44.722656 C 56.302277 44.898311 56.644352 45 57 45 C 57.5305 45 58.039062 44.790188 58.414062 44.414062 C 58.789563 44.040062 59 43.529125 59 43 L 59 28 L 59 27.767578 C 59 26.758078 58.248094 25.907703 57.246094 25.783203 C 54.870344 25.489203 50.923828 25 50.923828 25 z " />
+          <path id="circle46" style=""
+               d="m 54.000102,19.00017 a 5.00001,5.00001 0 0 1 -5.00001,5.00001 5.00001,5.00001 0 0 1 -5.00001,-5.00001 5.00001,5.00001 0 0 1 5.00001,-5.00001 5.00001,5.00001 0 0 1 5.00001,5.00001 z" />
+          <path id="circle56" style=""
+               d="m 14.000008,38.000046 a 2.000001,2.000001 0 0 1 -2.000001,2.000001 2.000001,2.000001 0 0 1 -2.000001,-2.000001 2.000001,2.000001 0 0 1 2.000001,-2.000001 2.000001,2.000001 0 0 1 2.000001,2.000001 z" />
+          <path id="circle60" style=""
+               d="M 2.00004,38.000046 A 2.000001,2.000001 0 0 1 3.8999999e-5,40.000047 2.000001,2.000001 0 0 1 -1.999962,38.000046 2.000001,2.000001 0 0 1 3.8999999e-5,36.000045 2.000001,2.000001 0 0 1 2.00004,38.000046 Z" />
+     </g>
 </svg>

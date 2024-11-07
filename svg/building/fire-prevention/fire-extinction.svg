@@ -1,115 +1,150 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1.06667,0,0,1,-2.13333,58)">
-        <rect x="2" y="2" width="60" height="4"/>
-    </g>
-    <g transform="matrix(1,0,0,1,0,24.0104)">
-        <path d="M-4.929,27C-4.443,23.609 -1.524,21 2,21C2.408,21 2.809,21.035 3.198,21.102C4.118,20.41 5.262,20 6.5,20C8.143,20 9.619,20.722 10.627,21.866C11.628,21.314 12.778,21 14,21C14.759,21 15.49,21.121 16.174,21.345C16.74,21.122 17.356,21 18,21C19.635,21 21.087,21.786 22,23.001C22.913,21.786 24.365,21 26,21C26.818,21 27.591,21.197 28.274,21.546C29.109,21.194 30.027,21 30.99,21C31.321,21 31.647,21.023 31.966,21.068C33.114,19.22 35.162,17.99 37.495,17.99C40.181,17.99 42.49,19.622 43.482,21.948C44.516,21.346 45.718,21 47,21C47.759,21 48.49,21.121 49.174,21.345C49.74,21.122 50.356,21 51,21C51.474,21 51.932,21.066 52.367,21.189C53.468,19.853 55.135,19 57,19C59.246,19 61.205,20.237 62.233,22.065C62.483,22.022 62.739,22 63,22C65.484,22 67.5,24.016 67.5,26.5C67.5,26.669 67.491,26.836 67.472,27L65.45,27C65.483,26.838 65.5,26.671 65.5,26.5C65.5,25.12 64.38,24 63,24C62.183,24 61.456,24.393 61,25.001L61,25C61,22.792 59.208,21 57,21C55.17,21 53.626,22.231 53.151,23.909C52.605,23.349 51.843,23 51,23C50.358,23 49.762,23.202 49.274,23.547C48.592,23.197 47.819,23 47,23C44.945,23 43.178,24.242 42.41,26.016C42.276,26.005 42.141,26 42.005,26C41.914,26 41.823,26.002 41.734,26.007C41.903,25.534 41.995,25.025 41.995,24.495C41.995,22.011 39.978,19.995 37.495,19.995C35.36,19.995 33.57,21.485 33.11,23.481C32.466,23.179 31.747,23.01 30.99,23.01C29.932,23.01 28.95,23.34 28.142,23.901C27.598,23.345 26.839,23 26,23C24.652,23 23.51,23.892 23.132,25.117C22.767,25.04 22.388,25 22,25C21.612,25 21.233,25.04 20.868,25.117C20.49,23.892 19.348,23 18,23C17.358,23 16.762,23.202 16.274,23.547C15.592,23.197 14.819,23 14,23C12.347,23 10.881,23.804 9.97,25.041C9.745,23.326 8.276,22 6.5,22C5.392,22 4.404,22.516 3.762,23.32C3.214,23.113 2.62,23 2,23C-0.417,23 -2.436,24.719 -2.9,27L-4.929,27ZM60.464,27C60.487,26.961 60.508,26.922 60.529,26.883C60.535,26.922 60.542,26.961 60.55,27L60.464,27Z"/>
-    </g>
-    <g transform="matrix(1,0,0,1,0,-3.98959)">
-        <path d="M34,6L38,6L38,10.005L34,10.005L34,10.006C34,11.107 33.107,12 32.006,12C32.005,12 32.004,12 32.004,12C30.902,12 30.01,11.107 30.01,10.006L30.01,10.005L26,10.005L26,6L30.01,6L30.01,3.99L34,3.99L34,6Z"/>
-    </g>
-    <circle cx="28" cy="17" r="2"/>
-    <g transform="matrix(1,0,0,1,-4,-8)">
-        <circle cx="28" cy="17" r="2"/>
-    </g>
-    <g>
-        <g transform="matrix(1,0,0,1,4,8)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,8,16)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,4,24)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,12,24)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,20,8)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,24,16)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,20,24)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,-12,8)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,-8,16)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,-12,24)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,-20,8)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,-16,16)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,-20,24)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,-28,24)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,-24,16)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,12,8)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,16,16)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,28,8)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,32,16)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,28,24)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,36,24)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,-4,8)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,0,16)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,-4,24)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,16,0)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,-16,0)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,-11,-8)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,8,0)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,24,0)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,20,-8)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,12,-8)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-        <g transform="matrix(1,0,0,1,-8,0)">
-            <circle cx="28" cy="17" r="2"/>
-        </g>
-    </g>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="100%" height="100%" viewBox="0 0 64 64"
+     version="1.1" xml:space="preserve"
+     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" id="svg150"
+     sodipodi:docname="fire-extinction.svg" inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+     <style id="style158">
+          #group1 {
+               stroke-width: 0px;
+               fill: #000000;
+               stroke: #FFFFFF;
+          }
+     </style>
+     <metadata id="metadata156">
+          <rdf:RDF>
+               <cc:Work rdf:about="">
+                    <dc:format>image/svg+xml</dc:format>
+                    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+               </cc:Work>
+          </rdf:RDF>
+     </metadata>
+     <defs id="defs154" />
+     <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10"
+          gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2"
+          inkscape:window-width="1920" inkscape:window-height="1017" id="namedview152" showgrid="false"
+          inkscape:zoom="13.28125" inkscape:cx="32" inkscape:cy="32" inkscape:window-x="-8" inkscape:window-y="-8"
+          inkscape:window-maximized="1" inkscape:current-layer="svg150" />
+
+
+
+
+
+     <g id="group1" style="">
+          <g transform="matrix(1.06667,0,0,1,-2.13333,58)" id="g4">
+               <rect x="2" y="2" width="60" height="4" id="rect2" />
+          </g>
+          <g transform="matrix(1,0,0,1,0,24.0104)" id="g8">
+               <path d="M-4.929,27C-4.443,23.609 -1.524,21 2,21C2.408,21 2.809,21.035 3.198,21.102C4.118,20.41 5.262,20 6.5,20C8.143,20 9.619,20.722 10.627,21.866C11.628,21.314 12.778,21 14,21C14.759,21 15.49,21.121 16.174,21.345C16.74,21.122 17.356,21 18,21C19.635,21 21.087,21.786 22,23.001C22.913,21.786 24.365,21 26,21C26.818,21 27.591,21.197 28.274,21.546C29.109,21.194 30.027,21 30.99,21C31.321,21 31.647,21.023 31.966,21.068C33.114,19.22 35.162,17.99 37.495,17.99C40.181,17.99 42.49,19.622 43.482,21.948C44.516,21.346 45.718,21 47,21C47.759,21 48.49,21.121 49.174,21.345C49.74,21.122 50.356,21 51,21C51.474,21 51.932,21.066 52.367,21.189C53.468,19.853 55.135,19 57,19C59.246,19 61.205,20.237 62.233,22.065C62.483,22.022 62.739,22 63,22C65.484,22 67.5,24.016 67.5,26.5C67.5,26.669 67.491,26.836 67.472,27L65.45,27C65.483,26.838 65.5,26.671 65.5,26.5C65.5,25.12 64.38,24 63,24C62.183,24 61.456,24.393 61,25.001L61,25C61,22.792 59.208,21 57,21C55.17,21 53.626,22.231 53.151,23.909C52.605,23.349 51.843,23 51,23C50.358,23 49.762,23.202 49.274,23.547C48.592,23.197 47.819,23 47,23C44.945,23 43.178,24.242 42.41,26.016C42.276,26.005 42.141,26 42.005,26C41.914,26 41.823,26.002 41.734,26.007C41.903,25.534 41.995,25.025 41.995,24.495C41.995,22.011 39.978,19.995 37.495,19.995C35.36,19.995 33.57,21.485 33.11,23.481C32.466,23.179 31.747,23.01 30.99,23.01C29.932,23.01 28.95,23.34 28.142,23.901C27.598,23.345 26.839,23 26,23C24.652,23 23.51,23.892 23.132,25.117C22.767,25.04 22.388,25 22,25C21.612,25 21.233,25.04 20.868,25.117C20.49,23.892 19.348,23 18,23C17.358,23 16.762,23.202 16.274,23.547C15.592,23.197 14.819,23 14,23C12.347,23 10.881,23.804 9.97,25.041C9.745,23.326 8.276,22 6.5,22C5.392,22 4.404,22.516 3.762,23.32C3.214,23.113 2.62,23 2,23C-0.417,23 -2.436,24.719 -2.9,27L-4.929,27ZM60.464,27C60.487,26.961 60.508,26.922 60.529,26.883C60.535,26.922 60.542,26.961 60.55,27L60.464,27Z"
+                    id="path6" />
+          </g>
+          <g transform="matrix(1,0,0,1,0,-3.98959)" id="g12">
+               <path d="M34,6L38,6L38,10.005L34,10.005L34,10.006C34,11.107 33.107,12 32.006,12C32.005,12 32.004,12 32.004,12C30.902,12 30.01,11.107 30.01,10.006L30.01,10.005L26,10.005L26,6L30.01,6L30.01,3.99L34,3.99L34,6Z"
+                    id="path10" />
+          </g>
+          <circle cx="28" cy="17" r="2" id="circle14" />
+          <g transform="matrix(1,0,0,1,-4,-8)" id="g18">
+               <circle cx="28" cy="17" r="2" id="circle16" />
+          </g>
+          <g id="g148">
+               <g transform="matrix(1,0,0,1,4,8)" id="g22">
+                    <circle cx="28" cy="17" r="2" id="circle20" />
+               </g>
+               <g transform="matrix(1,0,0,1,8,16)" id="g26">
+                    <circle cx="28" cy="17" r="2" id="circle24" />
+               </g>
+               <g transform="matrix(1,0,0,1,4,24)" id="g30">
+                    <circle cx="28" cy="17" r="2" id="circle28" />
+               </g>
+               <g transform="matrix(1,0,0,1,12,24)" id="g34">
+                    <circle cx="28" cy="17" r="2" id="circle32" />
+               </g>
+               <g transform="matrix(1,0,0,1,20,8)" id="g38">
+                    <circle cx="28" cy="17" r="2" id="circle36" />
+               </g>
+               <g transform="matrix(1,0,0,1,24,16)" id="g42">
+                    <circle cx="28" cy="17" r="2" id="circle40" />
+               </g>
+               <g transform="matrix(1,0,0,1,20,24)" id="g46">
+                    <circle cx="28" cy="17" r="2" id="circle44" />
+               </g>
+               <g transform="matrix(1,0,0,1,-12,8)" id="g50">
+                    <circle cx="28" cy="17" r="2" id="circle48" />
+               </g>
+               <g transform="matrix(1,0,0,1,-8,16)" id="g54">
+                    <circle cx="28" cy="17" r="2" id="circle52" />
+               </g>
+               <g transform="matrix(1,0,0,1,-12,24)" id="g58">
+                    <circle cx="28" cy="17" r="2" id="circle56" />
+               </g>
+               <g transform="matrix(1,0,0,1,-20,8)" id="g62">
+                    <circle cx="28" cy="17" r="2" id="circle60" />
+               </g>
+               <g transform="matrix(1,0,0,1,-16,16)" id="g66">
+                    <circle cx="28" cy="17" r="2" id="circle64" />
+               </g>
+               <g transform="matrix(1,0,0,1,-20,24)" id="g70">
+                    <circle cx="28" cy="17" r="2" id="circle68" />
+               </g>
+               <g transform="matrix(1,0,0,1,-28,24)" id="g74">
+                    <circle cx="28" cy="17" r="2" id="circle72" />
+               </g>
+               <g transform="matrix(1,0,0,1,-24,16)" id="g78">
+                    <circle cx="28" cy="17" r="2" id="circle76" />
+               </g>
+               <g transform="matrix(1,0,0,1,12,8)" id="g82">
+                    <circle cx="28" cy="17" r="2" id="circle80" />
+               </g>
+               <g transform="matrix(1,0,0,1,16,16)" id="g86">
+                    <circle cx="28" cy="17" r="2" id="circle84" />
+               </g>
+               <g transform="matrix(1,0,0,1,28,8)" id="g90">
+                    <circle cx="28" cy="17" r="2" id="circle88" />
+               </g>
+               <g transform="matrix(1,0,0,1,32,16)" id="g94">
+                    <circle cx="28" cy="17" r="2" id="circle92" />
+               </g>
+               <g transform="matrix(1,0,0,1,28,24)" id="g98">
+                    <circle cx="28" cy="17" r="2" id="circle96" />
+               </g>
+               <g transform="matrix(1,0,0,1,36,24)" id="g102">
+                    <circle cx="28" cy="17" r="2" id="circle100" />
+               </g>
+               <g transform="matrix(1,0,0,1,-4,8)" id="g106">
+                    <circle cx="28" cy="17" r="2" id="circle104" />
+               </g>
+               <g transform="matrix(1,0,0,1,0,16)" id="g110">
+                    <circle cx="28" cy="17" r="2" id="circle108" />
+               </g>
+               <g transform="matrix(1,0,0,1,-4,24)" id="g114">
+                    <circle cx="28" cy="17" r="2" id="circle112" />
+               </g>
+               <g transform="matrix(1,0,0,1,16,0)" id="g118">
+                    <circle cx="28" cy="17" r="2" id="circle116" />
+               </g>
+               <g transform="matrix(1,0,0,1,-16,0)" id="g122">
+                    <circle cx="28" cy="17" r="2" id="circle120" />
+               </g>
+               <g transform="matrix(1,0,0,1,-11,-8)" id="g126">
+                    <circle cx="28" cy="17" r="2" id="circle124" />
+               </g>
+               <g transform="matrix(1,0,0,1,8,0)" id="g130">
+                    <circle cx="28" cy="17" r="2" id="circle128" />
+               </g>
+               <g transform="matrix(1,0,0,1,24,0)" id="g134">
+                    <circle cx="28" cy="17" r="2" id="circle132" />
+               </g>
+               <g transform="matrix(1,0,0,1,20,-8)" id="g138">
+                    <circle cx="28" cy="17" r="2" id="circle136" />
+               </g>
+               <g transform="matrix(1,0,0,1,12,-8)" id="g142">
+                    <circle cx="28" cy="17" r="2" id="circle140" />
+               </g>
+               <g transform="matrix(1,0,0,1,-8,0)" id="g146">
+                    <circle cx="28" cy="17" r="2" id="circle144" />
+               </g>
+          </g>
+     </g>
 </svg>
