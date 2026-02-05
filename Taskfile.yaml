@@ -32,15 +32,15 @@ tasks:
     cmds:
       - docker build -t svgconvertor:latest -f containers/{{.REPO_NAME}}/Dockerfile .
       - |
-        total=$(find svg/ -name *.svg | wc -l)
+        total=$(find icons/svg/ -name *.svg | wc -l)
         counter=1
         {{range $index, $size := .IMAGE_SIZE}}
-        for svg in $(find svg/ -name *.svg | cut -b 5-)
+        for svg in $(find icons/svg/ -name *.svg | cut -b 5-)
         do
           dir=$(dirname -- ${svg})
-          # echo "Create directory \"png/${dir}\""
-          mkdir -p png/${dir}
-          output=png/${svg%%.*}-{{$size}}.png
+          # echo "Create directory \"icons/png/${dir}\""
+          mkdir -p icons/png/${dir}
+          output=icons/png/${svg%%.*}-{{$size}}.png
           echo "[$counter/$total] Generating $output"
           docker run -v $(pwd)/svg:/convertor svgconvertor:latest  $svg -w {{$size}} > $output
           counter=$[$counter +1]
