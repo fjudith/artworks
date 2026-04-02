@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="24px" viewBox="0 0 24 24" width="24px" fill="#000000" version="1.1" id="svg2"
+  sodipodi:docname="backstage-location-icon-white.svg" inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7df3e1
+      }
+    </style>
+  </defs>
+  <path
+    d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+    id="path2" class="cls-1" />
+</svg>
